@@ -1,0 +1,7 @@
+git+https://github.com/kramcat/CharacterAI.git
+nest_asyncio
+dl-translate
+nltk
+ipywidgets
+widgetsnbextension
+langdetect
