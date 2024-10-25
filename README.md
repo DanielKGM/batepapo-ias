@@ -1,4 +1,4 @@
-# Character AI - Aplicação Interativa com Personagens de Inteligência Artificial
+# Batepapo IA - Personagens de Inteligência Artificial
 
 Esta aplicação utiliza a API do [Character AI](https://www.character.ai) para acessar modelos de personagens treinados, permitindo que eles conversem e retornem as informações dessas conversas. A interface pode ser usada no **Jupyter Notebook** ou **Google Colab**, entretanto, pode ser implementada em um grande leque de possibilidades, como em scripts Python rodando localmente ou integrados a outras plataformas de desenvolvimento.
 
