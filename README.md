@@ -4,6 +4,10 @@ Esta aplicação utiliza a API do [Character AI](https://www.character.ai) para 
 
 ## Demonstração ao vivo
 
+<p align="center">
+  <img src="conversa.png" width="100%"/>
+</p>
+
 Experimente a aplicação diretamente no Colab [CLICANDO AQUI](https://colab.research.google.com/drive/1pF3qOggmSZXhBpb5zMifIQ7ShsKRfYJ7?usp=sharing).
 
 ## Requisitos
@@ -17,10 +21,6 @@ A aplicação necessita do seu **token de acesso** aos modelos do Character AI. 
 Os tokens de acesso são objetos digitais que contêm informações de autorização, mas não informações de identidade. Eles são usados para autenticar e fornecer informações de autorização às APIs [(Google, 2024)](https://cloud.google.com/docs/authentication/token-types).
 
 Seu **token de acesso** é necessário para que você possa usar os serviços do [Character AI](https://www.character.ai). Dessa forma, os desenvolvedores sabem quem está fazendo requisições e todas as conversas entre os personagens ficam automaticamente registradas na sua conta.
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/SRX8X6DNF6QAAAAd/nerd-nerd-emoji.gif" width="200"/>
-</p>
 
 **Antes de seguir adiante, crie uma conta no [Character AI](https://www.character.ai)**. Se preferir, você pode criar uma conta usando um email temporário de 10 minutos, [como os disponibilizados aqui](https://www.google.com/search?q=10+minutes+mail).
 
